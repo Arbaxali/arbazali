@@ -9,9 +9,9 @@
 
 
 ### Connect with me:
-[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>](https:)
+[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/>](https:https://twitter.com/thesukaima)
 [<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/>](https://www.linkedin.com/in/arbaz-ali-7365041b4/)
-[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>]()
+[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/>](https://www.instagram.com/a_for_arbaz_/)
 [<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>](https://www.facebook.com/arbazkhan.arbazkhan.9674)
 
 <br />
